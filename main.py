@@ -11,3 +11,6 @@ print(2 * 2 + 2 == 2 * (2 + 2))
 
 # 4nd program
 print(int(float('123.456') * 10) % 10)
+
+# 4nd program alternate
+print("123.456".split('.')[1][0])
